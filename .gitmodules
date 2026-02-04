@@ -1,0 +1,6 @@
+[submodule "web-frontend/react"]
+	path = web-frontend/react
+	url = https://github.com/rac-developer/react-js.git
+[submodule "web-frontend/next"]
+	path = web-frontend/next
+	url = https://github.com/rac-developer/next-js
