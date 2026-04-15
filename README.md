@@ -84,9 +84,9 @@ Cada subproyecto es independiente. Para ejecutar cualquiera de ellos:
 
 Si estás interesado en mi trabajo o quieres colaborar en algún proyecto, ¡no dudes en contactarme!
 
-*   **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-usuario)
-*   **GitHub**: [@racdeveloper](https://github.com/tu-usuario)
-*   **Email**: tu-email@ejemplo.com
+*   **LinkedIn**: [Rodolfo Alejandro Castro](https://www.linkedin.com/in/racdeveloper/)
+*   **GitHub**: [@rac-developer](https://github.com/rac-developer)
+*   **Email**: racdeveloper.contact@gmail.com
 
 ---
 Desarrollado con ❤️ por **racdeveloper**
