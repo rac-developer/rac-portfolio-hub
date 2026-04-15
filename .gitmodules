@@ -4,6 +4,9 @@
 [submodule "web-frontend/next"]
 	path = web-frontend/next
 	url = https://github.com/rac-developer/next-js
+[submodule "web-frontend/astro"]
+	path = web-frontend/astro
+	url = https://github.com/rac-developer/astro
 [submodule "logic-backend/nest-js"]
 	path = logic-backend/nest-js
 	url = https://github.com/rac-developer/nest-js
