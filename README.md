@@ -12,6 +12,7 @@ Aquí encontrarás una colección de aplicaciones que van desde clones de plataf
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -30,12 +31,14 @@ Aquí encontrarás una colección de aplicaciones que van desde clones de plataf
 
 El repositorio está organizado por ecosistemas y tecnologías:
 
-### 🖥️ Web Frontend (React & Next.js)
+### 🖥️ Web Frontend (React, Next.js & Astro)
 Ubicado en `web-frontend/`, esta sección contiene aplicaciones interactivas y optimizadas para SEO.
 
 *   **Next.js Projects**:
     *   **Dashboard Pro**: Un panel de administración avanzado con autenticación (NextAuth v5), validación de formularios (Zod) y componentes optimizados.
     *   **Redux Toolkit Hub**: Implementaciones sólidas de manejo de estado global.
+*   **Astro Projects**:
+    *   **Minimalist CV**: Plantilla de currículum minimalista optimizada para rendimiento y SEO.
 *   **React (Vite) Projects**:
     *   **Disney+ Clone**: Replicación de interfaz con consumo de APIs externas y diseño responsive.
     *   **Kanbas Board**: Aplicación de productividad con funcionalidad Drag & Drop (`react-beautiful-dnd`).
